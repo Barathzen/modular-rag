@@ -1,0 +1,24 @@
+# Python bytecode and packaging
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environments and secrets
+.venv/
+.env
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Linters and type checkers
+.ruff_cache/
+.mypy_cache/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
